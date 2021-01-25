@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=soulkirs-main's%20Github&fontSize=40)
 
-### Hello world!&nbsp;<
+### System.out.println("Hello World!");&nbsp;
 
 <p>
   <em>
