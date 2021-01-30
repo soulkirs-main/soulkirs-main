@@ -24,8 +24,10 @@
    For Future
   </em>  
 </p>
-
+### Github Stats
 ![soulkirs-main's github stats](https://github-readme-stats.vercel.app/api?username=soulkirs-main&show_icons=true)
+
+### Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soulkirs-main&theme=tokyonight)
 
 
