@@ -31,7 +31,7 @@
 
 ### Development Project 
 
-* Deplux ([Site](http://deplux.io/))
+* Deplux ([Site](http://deplux.io/)) ([Github](https://github.com/Deplux))
 
 
 
